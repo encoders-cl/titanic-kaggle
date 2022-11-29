@@ -16,7 +16,7 @@ suppressWarnings(library(tidyverse))
 
 
 
-asdfsda
+#jajajaj te frce
 
 asdffdsa
 
