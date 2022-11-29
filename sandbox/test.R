@@ -12,5 +12,7 @@ suppressWarnings(library(tidyverse))
 
 # Seccion --------------------------------
 
+#arreglate este conflicto po rodo muajajaj
+
  # Section ---------------------------------------- 
  # Section ---------------------------------------- 
